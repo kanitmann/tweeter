@@ -141,7 +141,7 @@ Distributed under the SATA License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/license/kanitmann/tweeter.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/kanitmann/tweeter.svg?style=for-the-badge
 [contributors-url]: https://github.com/kanitmann/tweeter/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/kanitmann/tweeter.svg?style=for-the-badge
 [forks-url]: https://github.com/kanitmann/tweeter/network/members
