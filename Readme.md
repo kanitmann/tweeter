@@ -149,8 +149,9 @@ Distributed under the SATA License. See `LICENSE` for more information.
 [stars-url]: https://github.com/kanitmann/tweeter/stargazers
 [issues-shield]: https://img.shields.io/github/issues/kanitmann/tweeter.svg?style=for-the-badge
 [issues-url]: https://github.com/kanitmann/tweeter/issues
-[license-shield]: https://img.shields.io/badge/license-SATA-blue?style=for-the-badge&logo=appveyor
+[license-shield]: https://img.shields.io/github/license/kanitmann/tweeter?style=for-the-badge&logo=appveyor
 [license-url]: https://github.com/kanitmann/tweeter/blob/master/LICENSE.txt
 [made-with-shield]: https://img.shields.io/github/languages/top/kanitmann/tweeter?style=for-the-badge
+
 [made-with-url]: https://shields.io/github/languages/top/kanitmann/tweeter.svg?style-for-the-badge
 [product-screenshot]: (images/screenshot.png)
