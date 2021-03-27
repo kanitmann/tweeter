@@ -24,8 +24,19 @@ gem 'jbuilder', '~> 2.7'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
+
+# CSS framework based on flexbox
 gem 'bulma-rails', '~> 0.9.1'
-gem 'simple_form', '~> 5.1'
+
+# To generate login and signup
+gem 'simple_form', '~> 5.1' 
+
+# For profile image
+gem 'gravatar_image_tag', '~> 1.2' 
+
+# Flexible authentication
+gem 'devise', '~> 4.7', '>= 4.7.3'  
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
 
@@ -39,7 +50,7 @@ group :development do
   gem 'web-console', '>= 4.1.0'
   # Display performance information such as SQL time and flame graphs for each request in your browser.
   gem 'rack-mini-profiler', '~> 2.0'
-  gem 'better_errors', '~> 2.9', '>= 2.9.1'
+  gem 'better_errors', '~> 2.9', '>= 2.9.1' #better error return 
   gem 'guard-bundler'
 end
 
