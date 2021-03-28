@@ -1,1 +1,1 @@
-json.array! @tweets, partial: "tweets/tweet", as: :tweet
+json.array! @tweeets, partial: 'tweeets/tweeet', as: :tweeet

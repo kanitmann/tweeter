@@ -72,7 +72,6 @@ and
 
 On top of the Tweets, I introduce a new gem called Devise which makes creating an entire user role and authentication system easy. Combined with this gem we can authenticate users who want to author tweets. A user's Tweets are then also tied to their account. The end result is a public facing site with a stream of tweets from different users. Users that have and account can login to create their own tweets to add to the public stream.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With
 
