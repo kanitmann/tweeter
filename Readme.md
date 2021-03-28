@@ -62,39 +62,76 @@
 
 ## About The Project
 
+The app itself will feature a basic 
+
+**C**reate
+**R**ead
+**U**pdate
+and
+**D**estroy Tweets. 
+
+On top of the Tweets, I introduce a new gem called Devise which makes creating an entire user role and authentication system easy. Combined with this gem we can authenticate users who want to author Tweeets. A user's Tweets are then also tied to their account. The end result is a public facing site with a stream of tweets from different users. Users that have and account can login to create their own Tweeets to add to the public stream.
+
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With
 
-- []()
-- []()
-- []()
+- [Ruby-on-Rails](https://rubyonrails.org/)
 
+### Ruby gems used in this build
+
+- [Better Errors](https://rubygems.org/gems/better_errors) - For better errors
+
+- [Bulma](https://github.com/joshuajansen/bulma-rails) - for easy CSS. Feel free to roll your own styles and/or use a different framework.
+
+- [Guard](https://github.com/guard/guard) - Useful for live reloading our `scss`, `js`, `css`, and `erb` files, although it's capable of much more!
+
+  *Guard is required for the Guard LiveReload gem to work*
+
+- [Guard LiveReload](https://github.com/guard/guard-livereload)
+
+- [Simple Form](https://github.com/plataformatec/simple_form) - For simple forms!
+
+- [Devise](https://github.com/plataformatec/devise) - Effortless user roles and authentication
+
+- [Gravatar_image_tag](https://github.com/mdeering/gravatar_image_tag) - Integrated image tag which spits out gravatars.
 <!-- GETTING STARTED -->
 
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-
-- npm
-  bash
-  npm install npm@latest -g
+- Ruby
+- Rails
+- Bundler
+- SQLite3
+- NodeJS
   
 
 ### Installation
 
 1. Clone the repo
-   bash
+   ```bash
    git clone https://github.com/kanitmann/tweeter.git
-   
-2. Install NPM packages
-   bash
-   npm install
-   
+   ```
+2. Install Rails
+   ```bash
+   gem install rails
+   ```
+3. Install required gems
+   ```bash
+   bundle install
+   ```
+4. Install yarn
+    ```bash
+    npm install yarn
+    ```
+5. Install Bundler
+   ```bash
+   gem install bundler
+   ```
 
 <!-- USAGE EXAMPLES -->
 
@@ -126,7 +163,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the SATA License. See `LICENSE` for more information.
+Distributed under the GPL3.0 License. See `LICENSE` for more information.
 
 <!-- ACKNOWLEDGEMENTS -->
 
