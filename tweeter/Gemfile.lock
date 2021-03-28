@@ -256,6 +256,7 @@ DEPENDENCIES
   capybara (>= 3.26)
   devise (~> 4.7, >= 4.7.3)
   gravatar_image_tag (~> 1.2)
+  guard
   guard-bundler
   jbuilder (~> 2.7)
   puma (~> 5.0)

@@ -52,6 +52,7 @@ group :development do
   gem 'rack-mini-profiler', '~> 2.0'
   gem 'better_errors', '~> 2.9', '>= 2.9.1' #better error return 
   gem 'guard-bundler'
+  gem 'guard'
 end
 
 group :test do
