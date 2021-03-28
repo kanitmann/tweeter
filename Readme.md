@@ -52,6 +52,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#future-scope">Future Scope</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
   </ol>
@@ -147,6 +148,10 @@ For more examples, please refer to the [Documentation](https://example.com)
 See the [open issues](https://github.com/kanitmann/tweeter/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
+
+## Future Scope
+
+My future plans are to make this web app *decentalized* using `etherium.rb` so it does not depend on a centralized server to be working.
 
 ## Contributing
 
