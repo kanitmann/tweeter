@@ -54,7 +54,6 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -164,14 +163,6 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the GPL3.0 License. See `LICENSE` for more information.
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## Acknowledgements
-
-- []()
-- []()
-- []()
 
 > Made with 💙 by Kanit Mann
 
